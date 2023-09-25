@@ -88,6 +88,8 @@ let ageDifference = favoriteBooks[0].year - favoriteBooks[1].year
 ageDifference > 0
 console.log (ageDifference)
 
+console.log ("Github was pretty tricky, I hope everything is all right.")
+
 
 
 // DO NOT MODIFY THE CODE BELOW THIS LINE
